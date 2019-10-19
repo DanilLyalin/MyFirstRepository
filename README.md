@@ -1,2 +1,1 @@
-# MyFirstRepository
-Hello World!
+ЭТА МОЙ РЕПОЗИТОРИ ПОЛОЖИ НА МЕСТО!
